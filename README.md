@@ -13,9 +13,6 @@ It’s a system of thinking.
 
 ---
 
-## 📅 Daily Progress
-
-### ✅ Day 1 (Start)
 
 - Started structured 12-week roadmap
 - Defined clear DevOps goals
